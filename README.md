@@ -1,6 +1,6 @@
 [![@millie5172's Holopin board](https://holopin.io/api/user/board?user=millie5172)](https://holopin.io/@millie5
 # 💫 About Me:
-👋Hi, I’m @MildredKoskei<br> 👀I’m interested in mastering back-end development<br> 🌱I’m currently working on an open-source internship with italanta/elewa <br> 💞️ I’m looking to collaborate on several different projects<br> 📫 How to reach me: email me @mildredkoskei01@gmail.com
+👋Hi, I’m @MildredKoskei<br> 👀I’m interested in mastering AngularJs<br> 🌱I’m currently working on an open-source internship with italanta/elewa <br> 💞️ I’m looking to collaborate on several different projects<br> 📫 How to reach me: email me @mildredkoskei01@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mildred_koskei/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mildred-koskei-3a0a04246/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@millie_koskei) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/mildredk17) 
